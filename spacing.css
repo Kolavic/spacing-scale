@@ -1,0 +1,12 @@
+.root {
+  --space-1: 4px; /* For really small and tight spacing like metadata and icon */
+  --space-2: 8px; /* Spacing between caption and icon or labels and icon */
+  --space-3: 12px; /* Buttons, pills, badges */
+  --space-4: 16px; /* Spacing between primary elements. Button groups etc */
+  --space-5: 24px; /* Container padding or spaces between sections */
+  --space-6: 32px; /* Large container padding or margin between */
+  --space-7: 40px; /* Space between sections */
+  --space-8: 48px; /* Page division or margins (web) */
+  --space-9: 56px; /* Page division */
+  --space-10: 64px; /* Major page divisions for large screen*/
+}
