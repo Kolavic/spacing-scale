@@ -71,3 +71,10 @@
   --text-2xl: 1.5rem;    /* 24px - H2 / Page Sections */
   --text-3xl: 1.875rem;  /* 30px - H1 / Main Titles */
 }
+
+.button {
+background: var(--blue-500);
+text-color: var(--grey-25);
+border: var(--blue-25);
+padding: var(--space-4);
+}
