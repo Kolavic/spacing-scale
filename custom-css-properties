@@ -1,0 +1,73 @@
+:root {
+  /* --- Grey (Slate) --- */
+  --grey-25: #f8fafc;
+  --grey-50: #f1f5f9;
+  --grey-100: #e2e8f0;
+  --grey-200: #cbd5e1;
+  --grey-300: #94a3b8;
+  --grey-400: #64748b;
+  --grey-500: #475569;
+
+  /* --- Primary Blue --- */
+  --blue-25: #eff6ff;
+  --blue-50: #dbeafe;
+  --blue-100: #bfdbfe;
+  --blue-200: #93c5fd;
+  --blue-300: #60a5fa;
+  --blue-400: #3b82f6;
+  --blue-500: #2563eb;
+
+  /* --- Secondary Green (Emerald) --- */
+  --green-25: #ecfdf5;
+  --green-50: #d1fae5;
+  --green-100: #a7f3d0;
+  --green-200: #6ee7b7;
+  --green-300: #34d399;
+  --green-400: #10b981;
+  --green-500: #059669;
+  
+  /* --- Success Green --- */
+  --success-25: #f0fdf4;
+  --success-50: #dcfce7;
+  --success-100: #bbf7d0;
+  --success-200: #86efac;
+  --success-300: #4ade80;
+  --success-400: #22c55e;
+  --success-500: #16a34a;
+
+  /* --- Warning Yellow (Amber) --- */
+  --warning-25: #fffbeb;
+  --warning-50: #fef3c7;
+  --warning-100: #fde68a;
+  --warning-200: #fcd34d;
+  --warning-300: #fbbf24;
+  --warning-400: #f59e0b;
+  --warning-500: #d97706;
+
+  /* --- Error Red (Rose) --- */
+  --error-25: #fff1f2;
+  --error-50: #ffe4e6;
+  --error-100: #fecdd3;
+  --error-200: #fda4af;
+  --error-300: #fb7185;
+  --error-400: #f43f5e;
+  --error-500: #e11d48;
+
+  /* --- Spacing --- */
+  --spacing-4: 4px;
+  --spacing-8: 8px;
+  --spacing-16: 16px;
+  --spacing-24: 24px;
+  --spacing-32: 32px;
+  --spacing-40: 40px;
+  --spacing-48: 48px;
+
+  /* --- Typography --- */
+  --text-xs: 0.75rem;    /* 12px - Captions / Helper text */
+  --text-sm: 0.875rem;   /* 14px - Secondary body / Labels */
+  --text-base: 1rem;     /* 16px - Standard body text */
+  --text-lg: 1.125rem;   /* 18px - Subheaders / Large body */
+  --text-xl: 1.25rem;    /* 20px - H3 / Small Titles */
+  --text-2xl: 1.5rem;    /* 24px - H2 / Page Sections */
+  --text-3xl: 1.875rem;  /* 30px - H1 / Main Titles */
+}
